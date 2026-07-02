@@ -1,7 +1,7 @@
 id=iOS_Emoji_and_Persian_emoji
 name=IOS Emoji + Persian Emoji
-version=v4
-versionCode=4000
+version=v5
+versionCode=5000
 author=@Persian_Magisk
 description=IOS Emoji and Persian Emoji 🇮🇷
 minMagisk=30000
