@@ -12,9 +12,9 @@ PROPFILE=false
 POSTFSDATA=false
 LATESTARTSERVICE=true
 
-ui_print "*************************************"
-ui_print "*          iOS Emoji 26.4           *"
-ui_print "*************************************"
+ui_print "*******************************"
+ui_print "*       IOS Emoji + Persian Emoji      *"
+ui_print "*******************************"
 
 # Definitions
 FONT_DIR="$MODPATH/system/fonts"
