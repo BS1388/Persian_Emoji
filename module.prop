@@ -1,7 +1,8 @@
-id=iOS_Emoji
-name=iOS 26.4 Emoji font
-version=v26.4
-versionCode=26400
-author=Keinta15
-description=Systemlessly replaces emoji font with iOS 26.4 Emoji
-updateJson=https://raw.githubusercontent.com/Keinta15/Magisk-iOS-Emoji/main/updater.json
+id=iOS_Emoji_and_Persian_emoji
+name=IOS Emoji + Persian Emoji
+version=v4
+versionCode=4000
+author=@Persian_Magisk
+description=IOS Emoji and Persian Emoji 🇮🇷
+minMagisk=30000
+#@Babak1388(telegram)
