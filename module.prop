@@ -2,7 +2,9 @@ id=iOS_Emoji_and_Persian_emoji
 name=IOS Emoji + Persian Emoji
 version=v5.2
 versionCode=5200
-author=@Persian_Magisk
+author=@Babak1388
 description=IOS Emoji and Persian Emoji 🇮🇷
 minMagisk=30000
+changelog=https://raw.githubusercontent.com/BS1388/Persian_Emoji/main/changelog.md
+updateJson=https://raw.githubusercontent.com/BS1388/Persian_Emoji/main/update.json
 #@Babak1388(telegram)
